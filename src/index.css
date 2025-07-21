@@ -2,8 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 body{
-    background-color: rgb(122, 122, 164);
+    background-color: rgb(23, 23, 23);
 }
 .div{
-    background-color: rgb(170, 170, 240);
+    background-color: rgb(54, 54, 54);
+    box-shadow: rgba(235, 235, 235, 0.30) 0px 5px 15px;
 }
